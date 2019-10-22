@@ -1,0 +1,15 @@
+.time-container {
+  display: inline-block;
+}
+
+.time-digits {
+  font-size: 3em;
+  display: inline-block;
+  text-align: center;
+}
+
+.time-text {
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+}
